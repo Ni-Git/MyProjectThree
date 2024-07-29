@@ -5,5 +5,7 @@ public class First {
 		// TODO Auto-generated method stub
 
 	}
-
+ 
+	int a = 5;
+	
 }
